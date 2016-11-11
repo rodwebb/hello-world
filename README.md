@@ -1,2 +1,2 @@
 # hello-world
-first repo
+Initial Hello World app on github.
